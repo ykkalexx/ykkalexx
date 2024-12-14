@@ -1,6 +1,5 @@
 ## Hi There, I'm Vlad Alex 👾
 
----
 #### About Me: 
 
 I'm a Backend Software Engineer specializing in Node.js and Golang, focused on building scalable and efficient systems.
