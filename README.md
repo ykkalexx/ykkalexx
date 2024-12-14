@@ -10,7 +10,7 @@ I'm a Backend Software Engineer specializing in Node.js and Golang, focused on b
 ---
 #### Skills & Technologies 🚀  
 
-- Node.js 🟢 | Golang 🐹  
+- Node.js | Golang | Python | Java 
 - Cloud & Deployment: AWS ☁️, Docker 🐳, Kubernetes ☸️  
 
 ---
