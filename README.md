@@ -1,29 +1,23 @@
-## Hi There, I'm Vlad Alex 👾
+# Hi there, I'm Vlad Alex 👾  
 
-#### About Me: 
+### About Me  
 
-I'm a Backend Software Engineer specializing in Node.js and Golang, focused on building scalable and efficient systems.
-
-- 🎓 Final-year Computer Science student (4th year).
-- 📍 Currently based in Ireland 🇮🇪 but looking to relocate to France 🇫🇷.
-
----
-#### Skills & Technologies 🚀  
-
-- Node.js | Golang | Python | Java 
-- Cloud & Deployment: AWS ☁️, Docker 🐳, Kubernetes ☸️  
+I'm a **Software Engineer** based in **Amsterdam**, currently working full-time at **Just Eat Takeaway**.  
+I specialize in **Backend Engineering** and **Deep Learning**, with a strong focus on building **scalable, reliable systems** and applying AI to solve real-world challenges.  
 
 ---
 
-####  📊 GitHub Stats  
+### 🛠️ Skills & Technologies  
 
-![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ykkalexx&show_icons=true&theme=tokyonight)
+- **Languages:** Java | C# | Golang | Nodejs  
+- **Cloud & Deployment:** AWS ☁️ | Docker 🐳 | Kubernetes ☸️  
+- **AI & Deep Learning:** TensorFlow | PyTorch | Machine Learning Systems  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykkalexx&layout=compact&theme=tokyonight)
+---
 
+### 📊 GitHub Stats  
 
+![Vlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ykkalexx&show_icons=true&theme=tokyonight)  
 
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykkalexx&layout=compact&theme=tokyonight)  
 
